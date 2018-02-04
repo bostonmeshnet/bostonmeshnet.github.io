@@ -5,13 +5,17 @@ tagline: join our community
 ---
 {% include JB/setup %}
 
+## What is Mesh Networking?
+
+Mesh networking is a way of distributing bandwidth over an area. We distribute bandwidth by making line-of-sight connections between radio antennae stationed on rooftops. From each node, people are able to connect to the network like they would any other WiFi access point.
+
 ## Who Are We
 
-BostonMesh is a community owned and operated mesh network consisting of many nodes spread throughout the city. Nodes connect securely (aka "mesh") with open technologies like [cjdns](https://en.wikipedia.org/wiki/cjdns)
+BostonMesh is a community owned and operated mesh network consisting of many nodes spread throughout the city. Nodes connect securely (aka "mesh") using open, secure technologies like [cjdns](https://en.wikipedia.org/wiki/cjdns).
 
 ## Our Mission
 
-We aim to create a free, resilient, stand-alone communication system that serves both for daily use and also for emergencies—be it power outages or internet disruption—running software that helps our community with hyperlocal maps and events.
+We aim to create a free, resilient, stand-alone communication system that serves both for daily use and also for emergencies, such as power outages or internet disruption—running software. Our mesh network builds community with hyperlocal maps, events, and other applications. 
 
 ## Get Involved
 
